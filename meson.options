@@ -1,0 +1,2 @@
+option('lefthook_version', type: 'string', value: '2.1.12')
+option('install_git_hooks_by_default', type: 'boolean', value: true)
